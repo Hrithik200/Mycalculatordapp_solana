@@ -1,1 +1,1 @@
-/Users/macmini/mycalculatordapp/target/bpfel-unknown-unknown/release/mycalculatordapp.so: /Users/macmini/mycalculatordapp/programs/mycalculatordapp/src/lib.rs
+/Users/macmini/Documents/GitHub/Mycalculatordapp_solana/target/bpfel-unknown-unknown/release/mycalculatordapp.so: /Users/macmini/Documents/GitHub/Mycalculatordapp_solana/programs/mycalculatordapp/src/lib.rs
