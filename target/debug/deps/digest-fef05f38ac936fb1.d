@@ -1,0 +1,12 @@
+/Users/macmini/mycalculatordapp/target/debug/deps/digest-fef05f38ac936fb1.rmeta: /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/lib.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/ct_variable.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/rt_variable.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/wrapper.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/xof_reader.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/digest.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/mac.rs
+
+/Users/macmini/mycalculatordapp/target/debug/deps/digest-fef05f38ac936fb1.d: /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/lib.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/ct_variable.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/rt_variable.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/wrapper.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/xof_reader.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/digest.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/mac.rs
+
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/lib.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/ct_variable.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/rt_variable.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/wrapper.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/core_api/xof_reader.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/digest.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.7/src/mac.rs:

@@ -1,0 +1,10 @@
+/Users/macmini/mycalculatordapp/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-6712fc1b4c6eed2b.rmeta: /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/lib.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_digester.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_example.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/hash.rs
+
+/Users/macmini/mycalculatordapp/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-6712fc1b4c6eed2b.rlib: /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/lib.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_digester.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_example.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/hash.rs
+
+/Users/macmini/mycalculatordapp/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-6712fc1b4c6eed2b.d: /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/lib.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_digester.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_example.rs /Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/hash.rs
+
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/lib.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_digester.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/abi_example.rs:
+/Users/macmini/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.29/src/hash.rs:

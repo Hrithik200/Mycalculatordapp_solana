@@ -1,0 +1,17 @@
+[0m[38;5;8m[[0m2023-05-24T06:25:02.716375000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m solana-validator 1.14.18 (src:b00d18ce; feat:1879391783)
+[0m[38;5;8m[[0m2023-05-24T06:25:02.717174000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+        ],
+    }
+[0m[38;5;8m[[0m2023-05-24T06:25:02.720855000Z [0m[33mWARN [0m solana_perf[0m[38;5;8m][0m CUDA is disabled
+[0m[38;5;8m[[0m2023-05-24T06:25:02.739128000Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX detected
+[0m[38;5;8m[[0m2023-05-24T06:25:02.739163000Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX2 detected
+[0m[38;5;8m[[0m2023-05-24T06:25:02.756683000Z [0m[32mINFO [0m solana_faucet::faucet[0m[38;5;8m][0m Faucet started. Listening on: 0.0.0.0:9900
+[0m[38;5;8m[[0m2023-05-24T06:25:02.756732000Z [0m[32mINFO [0m solana_faucet::faucet[0m[38;5;8m][0m Faucet account address: D7ja8Za2QeTB9gamMyZJSE4MEYEfMwUBrMnLmTSHCAS9
+[0m[38;5;8m[[0m2023-05-24T06:25:02.812602000Z [0m[32mINFO [0m solana_ledger::blockstore[0m[38;5;8m][0m Maximum open file descriptors: 1000000
+[0m[38;5;8m[[0m2023-05-24T06:25:02.820320000Z [0m[32mINFO [0m solana_ledger::blockstore[0m[38;5;8m][0m Opening database at "test-ledger/rocksdb"
+[0m[38;5;8m[[0m2023-05-24T06:25:03.422349000Z [0m[32mINFO [0m solana_ledger::blockstore[0m[38;5;8m][0m "test-ledger/rocksdb" open took 602ms
+[0m[38;5;8m[[0m2023-05-24T06:25:03.445655000Z [0m[32mINFO [0m solana_metrics::metrics[0m[38;5;8m][0m metrics disabled: SOLANA_METRICS_CONFIG: environment variable not found
+[0m[38;5;8m[[0m2023-05-24T06:25:03.445814000Z [0m[32mINFO [0m solana_metrics::metrics[0m[38;5;8m][0m datapoint: shred_insert_is_full total_time_ms=0i slot=0i last_index=3i num_repaired=0i num_recovered=0i
+[0m[38;5;8m[[0m2023-05-24T06:25:03.999815000Z [0m[32mINFO [0m solana_runtime::hardened_unpack[0m[38;5;8m][0m Extracting "test-ledger/genesis.tar.bz2"...
