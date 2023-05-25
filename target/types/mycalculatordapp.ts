@@ -28,6 +28,69 @@ export type Mycalculatordapp = {
         }
       ],
       "returns": null
+    },
+    {
+      "name": "add",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "subtract",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "divide",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
     }
   ],
   "accounts": [
@@ -81,6 +144,69 @@ export const IDL: Mycalculatordapp = {
         {
           "name": "initMessage",
           "type": "string"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "add",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "subtract",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "divide",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "int1",
+          "type": "i64"
+        },
+        {
+          "name": "int2",
+          "type": "i64"
         }
       ],
       "returns": null

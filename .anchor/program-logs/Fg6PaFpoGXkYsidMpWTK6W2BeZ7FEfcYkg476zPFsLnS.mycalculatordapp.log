@@ -1,11 +1,51 @@
 Streaming transaction logs mentioning Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS. Confirmed commitment
-Transaction executed in slot 4:
-  Signature: 33Nmb8SvC3GMfPSSvuZ5sU526yWXmDrbBy1XtWUgzWpMzTKMZusugyLCyiaYJUvNBvHAir6q5ZMgBrz6ezv6xYpw
+Transaction executed in slot 2:
+  Signature: 7ZCgsXCT5vNvEub8L2uBm5dJ8Ey39zjSq9Cp9CZMCy44uMxgYC537sfsXq1LPaEnpndoNhswNW9i2KPcPUnwR3R
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
     Program log: Instruction: Create
     Program 11111111111111111111111111111111 invoke [2]
     Program 11111111111111111111111111111111 success
-    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 6781 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 6788 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 3:
+  Signature: 4pNoWn7eMh4bMddiTejR4D5wvTNveCH449rJzAK2AYX45T4nUuj4Cig3uGuYJi1uNfE8rdmv8XUg1Wn96srJxPWH
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Add
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2220 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 3:
+  Signature: 65veywjtfMZFZE9C5Z98Dp4tLf93p5eK9DqvJ9mvSznKZXdf1jr6F2rUAfDBVHpPsusEFdFAJQ3h6M5mpXpNqC2J
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Subtract
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2224 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 4:
+  Signature: 65veywjtfMZFZE9C5Z98Dp4tLf93p5eK9DqvJ9mvSznKZXdf1jr6F2rUAfDBVHpPsusEFdFAJQ3h6M5mpXpNqC2J
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Subtract
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2224 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 4:
+  Signature: 3Th76m68ZosLgvXsZyDWjYaqMPf7aL6Z33mYM55zKKngbNJpyyN47tbBk92V9uVmMEzt9jGob1cSPzMaNoc3tvxX
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Divide
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2265 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 5:
+  Signature: 3Th76m68ZosLgvXsZyDWjYaqMPf7aL6Z33mYM55zKKngbNJpyyN47tbBk92V9uVmMEzt9jGob1cSPzMaNoc3tvxX
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Divide
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2265 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
