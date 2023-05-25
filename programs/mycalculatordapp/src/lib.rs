@@ -26,6 +26,11 @@ pub mod mycalculatordapp {
         calculator.remainder = int1 % int2;
         Ok(())
     }
+    pub fn multiply(ctx: Context<Multiplication>, int1: i64, int2: i64) -> Result<()> {
+        let calculator = &mut ctx.accounts.calculator;
+        calculator.result = int1 * int2;
+        Ok(())
+    }
 }
 
 #[derive(Accounts)]
@@ -52,6 +57,12 @@ pub struct Subtraction<'info> {
 
 #[derive(Accounts)]
 pub struct Division<'info> {
+    #[account(mut)]
+    pub calculator: Account<'info, Calculator>,
+}
+
+#[derive(Accounts)]
+pub struct Multiplication<'info> {
     #[account(mut)]
     pub calculator: Account<'info, Calculator>,
 }

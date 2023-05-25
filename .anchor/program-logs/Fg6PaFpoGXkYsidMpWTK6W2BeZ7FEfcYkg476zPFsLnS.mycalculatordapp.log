@@ -1,6 +1,6 @@
 Streaming transaction logs mentioning Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS. Confirmed commitment
 Transaction executed in slot 2:
-  Signature: 7ZCgsXCT5vNvEub8L2uBm5dJ8Ey39zjSq9Cp9CZMCy44uMxgYC537sfsXq1LPaEnpndoNhswNW9i2KPcPUnwR3R
+  Signature: 5erziyMyjCX2rxjE4d3bQEpaw3uWayJUENw3cLv6BRUXrZ6WqKi5CZZFYhMJEMe2cTxkuF7Af7tnngwizpYqa9va
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
@@ -10,31 +10,31 @@ Transaction executed in slot 2:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 6788 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
 Transaction executed in slot 3:
-  Signature: 4pNoWn7eMh4bMddiTejR4D5wvTNveCH449rJzAK2AYX45T4nUuj4Cig3uGuYJi1uNfE8rdmv8XUg1Wn96srJxPWH
+  Signature: 4KMHHjFzNvXm6DtFNW8qJQueYSLoQd8dnQzmWL1Q5uEepfKrcNLhtpFT7ZdTR1wtKKERwCWfNbPVAFJjPgK1irSP
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
     Program log: Instruction: Add
-    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2220 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2222 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
 Transaction executed in slot 3:
-  Signature: 65veywjtfMZFZE9C5Z98Dp4tLf93p5eK9DqvJ9mvSznKZXdf1jr6F2rUAfDBVHpPsusEFdFAJQ3h6M5mpXpNqC2J
+  Signature: KBRf9cuGTZReeEkgmHJiiWRAvi78MatrvKEgutf8hvJ3H58oGpnBi89V62VLbMQsXJtE2dDKDx4gGoUmGwzCnz9
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
     Program log: Instruction: Subtract
-    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2224 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2222 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
 Transaction executed in slot 4:
-  Signature: 65veywjtfMZFZE9C5Z98Dp4tLf93p5eK9DqvJ9mvSznKZXdf1jr6F2rUAfDBVHpPsusEFdFAJQ3h6M5mpXpNqC2J
+  Signature: KBRf9cuGTZReeEkgmHJiiWRAvi78MatrvKEgutf8hvJ3H58oGpnBi89V62VLbMQsXJtE2dDKDx4gGoUmGwzCnz9
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
     Program log: Instruction: Subtract
-    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2224 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2222 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
 Transaction executed in slot 4:
-  Signature: 3Th76m68ZosLgvXsZyDWjYaqMPf7aL6Z33mYM55zKKngbNJpyyN47tbBk92V9uVmMEzt9jGob1cSPzMaNoc3tvxX
+  Signature: 5CbvBRw64yeotk752hrznkjcobygnzA7E77YxXRHVJf14x33SZuKSoKGfaauMpxjJh9xZdv5ipedN6LkBxBpytAU
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
@@ -42,7 +42,23 @@ Transaction executed in slot 4:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2265 of 200000 compute units
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
 Transaction executed in slot 5:
-  Signature: 3Th76m68ZosLgvXsZyDWjYaqMPf7aL6Z33mYM55zKKngbNJpyyN47tbBk92V9uVmMEzt9jGob1cSPzMaNoc3tvxX
+  Signature: 5CbvBRw64yeotk752hrznkjcobygnzA7E77YxXRHVJf14x33SZuKSoKGfaauMpxjJh9xZdv5ipedN6LkBxBpytAU
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Divide
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2265 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 5:
+  Signature: 47AbwsiAe7WMcnaVx2BRDwBvBmiDf4Z24x5zWYcbCtke415HeJ6YipAvMTTPPfx14jEHkeZMaXh9BsNZknWB3vHZ
+  Status: Ok
+  Log Messages:
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]
+    Program log: Instruction: Divide
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS consumed 2265 of 200000 compute units
+    Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS success
+Transaction executed in slot 6:
+  Signature: 47AbwsiAe7WMcnaVx2BRDwBvBmiDf4Z24x5zWYcbCtke415HeJ6YipAvMTTPPfx14jEHkeZMaXh9BsNZknWB3vHZ
   Status: Ok
   Log Messages:
     Program Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS invoke [1]

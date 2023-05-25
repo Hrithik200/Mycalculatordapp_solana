@@ -60,10 +60,20 @@ const calc =
       console.log("account1------->", account3);
       console.log("TX4---->", tx4);
 
+      const tx5=await program.rpc.divide(new anchor.BN(3), new anchor.BN(2),{
+        accounts:{
+        calculator:calculator.publicKey
+        }
+    })
 
 
-      // console.log("New anchor",new anchor .BN(5))
-      // console.log(account.result.eq)
-      // assert.ok(account.result.eq(new  anchor.BN(5)));
+      let  account4 = await program.account.calculator.fetch(
+        calculator.publicKey
+      );
+      console.log("account1------->", account4);
+      console.log("TX5---->", tx5);
+
+
+
   });
 calc();
