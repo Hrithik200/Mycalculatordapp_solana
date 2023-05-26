@@ -33,20 +33,17 @@ pub mod mycalculatordapp {
     }
     pub fn factorial(ctx: Context<Factorial>, n: i64) -> Result<()> {
         let calculator = &mut ctx.accounts.calculator;
-    
+
         let mut result = 1;
-    
+
         for i in 2..=n {
             result *= i;
         }
-    
-      calculator.result=result;
-    
+
+        calculator.result = result;
+
         Ok(())
     }
-    
-
-
 }
 
 #[derive(Accounts)]
@@ -87,7 +84,6 @@ pub struct Factorial<'info> {
     #[account(mut)]
     pub calculator: Account<'info, Calculator>,
 }
-
 
 #[account]
 pub struct Calculator {
