@@ -72,19 +72,13 @@ const calc =
     console.log("account1------->", account5);
     console.log("TX5---->", fifth);
 
-
-    const sixth = await program.rpc.divide(
-      new anchor.BN(3),
-      new anchor.BN(2),
-      {
-        accounts: {
-          calculator: calculator.publicKey,
-        },
-      }
-    );
+    const sixth = await program.rpc.divide(new anchor.BN(3), new anchor.BN(2), {
+      accounts: {
+        calculator: calculator.publicKey,
+      },
+    });
     let account6 = await program.account.calculator.fetch(calculator.publicKey);
     console.log("account1------->", account6);
     console.log("TX4---->", sixth);
-
   });
 calc();
