@@ -112,6 +112,23 @@
         }
       ],
       "returns": null
+    },
+    {
+      "name": "factorial",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "n",
+          "type": "i64"
+        }
+      ],
+      "returns": null
     }
   ],
   "accounts": [

@@ -112,6 +112,23 @@ export type Mycalculatordapp = {
         }
       ],
       "returns": null
+    },
+    {
+      "name": "factorial",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "n",
+          "type": "i64"
+        }
+      ],
+      "returns": null
     }
   ],
   "accounts": [
@@ -248,6 +265,23 @@ export const IDL: Mycalculatordapp = {
         },
         {
           "name": "int2",
+          "type": "i64"
+        }
+      ],
+      "returns": null
+    },
+    {
+      "name": "factorial",
+      "accounts": [
+        {
+          "name": "calculator",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "n",
           "type": "i64"
         }
       ],
