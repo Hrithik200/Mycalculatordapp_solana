@@ -14,7 +14,7 @@ Factorial: Calculate the factorial of a number.
 
 
 
-#Technologies Used
+# Technologies Used
 
 Rust: Programming language for developing the Solana smart contract.
 
@@ -23,7 +23,7 @@ Anchor: Framework for building Solana dapps in Rust.
 JavaScript: Programming language for interacting with the Solana smart contract on the frontend.
 
 
-#Prerequisites
+# Prerequisites
 
 Before running the Solana Dapp Calculator, make sure you have the following prerequisites installed:
 
